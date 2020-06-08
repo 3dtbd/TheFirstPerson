@@ -546,11 +546,6 @@ namespace TheFirstPerson
                 }
 
                 transform.localEulerAngles = new Vector3(0, horizontalLook, 0);
-                print("lookenabled");
-            }
-            else
-            {
-                print("lookdisabled");
             }
         }
 
